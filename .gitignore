@@ -1,6 +1,4 @@
 node_modules/
 build/
-uploads/
-outputs/
 .env
 .DS_Store
